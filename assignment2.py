@@ -26,7 +26,7 @@ def read_file(infile):
     infile.close()
 
 def main():
-    open_infile
+    open_infile()
 
 
 
